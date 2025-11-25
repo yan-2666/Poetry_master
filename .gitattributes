@@ -7,3 +7,4 @@
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
+models/fspc_sentence_classifier_final/model.safetensors filter=lfs diff=lfs merge=lfs -text
